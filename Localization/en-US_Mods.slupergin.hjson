@@ -1,0 +1,13 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Filo_Del_Abismo: {
+		DisplayName: Filo_ Del_ Abismo
+		Tooltip: " forjada en las profundidades más oscuras del inframundo, envuelta en sombras eternas. Su hoja emite un aura siniestra que consume la luz y corrompe el alma de aquellos que se atreven a blandirla, otorgando un poder devastador a su portador."
+	}
+}
+
+Projectiles: {
+	MySwordProjectile.DisplayName: My Sword Projectile
+	MySwordProjectileSprite1.DisplayName: My Sword Projectile Sprite1
+}

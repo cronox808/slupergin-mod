@@ -1,0 +1,3 @@
+displayName = slupergin_mod
+author = cronox808
+version = 0.1
