@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace slupergin.Projectiles
+namespace slupergin.Content.Projectiles
 {
     public class MySwordProjectileSprite1 : ModProjectile
     {
@@ -45,7 +45,7 @@ namespace slupergin.Projectiles
         public override bool PreDraw(ref Color lightColor)
         {
             // Cargar y dibujar el sprite correspondiente
-            string spritePath = $"slupergin/Projectiles/MySwordProjectileSprite{Projectile.frame + 1}";
+            string spritePath = $"slupergin/Content/Projectiles/MySwordProjectileSprite{Projectile.frame + 1}";
             try
             {
                 Texture2D texture = ModContent.Request<Texture2D>(spritePath).Value;

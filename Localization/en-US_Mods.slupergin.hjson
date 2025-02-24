@@ -1,13 +1,48 @@
-# This file will automatically update with entries for new content after a build and reload.
-
 Items: {
+	Filo__Del__Abismo: {
+		DisplayName: Filo del Abismo
+		Tooltip:
+			'''
+			Forjada en las profundidades más oscuras del inframundo,
+			envuelta en sombras eternas. Su hoja emite un aura siniestra que
+			consume la luz y corrompe el alma de aquellos que se atreven a blandirla,
+			otorgando un poder devastador a su portador.
+			'''
+	}
+
 	Filo_Del_Abismo: {
 		DisplayName: Filo_ Del_ Abismo
-		Tooltip: " forjada en las profundidades más oscuras del inframundo, envuelta en sombras eternas. Su hoja emite un aura siniestra que consume la luz y corrompe el alma de aquellos que se atreven a blandirla, otorgando un poder devastador a su portador."
+		Tooltip: ""
+	}
+
+	DevouriaGrassItem: {
+		DisplayName: Devouria Grass Item
+		Tooltip: ""
+	}
+
+	DevouriaStoneItem: {
+		DisplayName: Devouria Stone Item
+		Tooltip: ""
 	}
 }
 
 Projectiles: {
 	MySwordProjectile.DisplayName: My Sword Projectile
 	MySwordProjectileSprite1.DisplayName: My Sword Projectile Sprite1
+}
+
+Mods: {
+	Slupergin: {
+		DevouriaBiome: {
+			DisplayName: Devouria Biome
+			Description: A dark and dangerous place...
+		}
+	}
+}
+
+Biomes: {
+	DevouriaBiome: {
+		DisplayName: Devouria Biome
+		TownNPCDialogueName: the Devouria Biome
+	}
 }

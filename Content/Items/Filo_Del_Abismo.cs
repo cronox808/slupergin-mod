@@ -1,12 +1,13 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using slupergin.Projectiles; // Importa el espacio de nombres correcto
+using slupergin.Content.Projectiles;
 
 namespace slupergin.Content.Items
 { 
     public class Filo_Del_Abismo : ModItem
     {
+        
         public override void SetDefaults()
         {
             Item.damage = 800;
@@ -21,7 +22,7 @@ namespace slupergin.Content.Items
             Item.rare = ItemRarityID.Red;
             Item.UseSound = SoundID.Item1;
             Item.autoReuse = true;
-            Item.shoot = ModContent.ProjectileType<MySwordProjectileSprite1>(); // Corrige el tipo de proyectil
+            Item.shoot = ModContent.ProjectileType<MySwordProjectileSprite1>(); 
             Item.shootSpeed = 10f;
         }
 
@@ -36,3 +37,4 @@ namespace slupergin.Content.Items
         }
     }
 }
+
