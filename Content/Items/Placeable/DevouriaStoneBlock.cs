@@ -4,7 +4,7 @@ using Terraria.ID;
 
 namespace Slupergin.Content.Items.Placeable
 {
-    public class DevouriaGrassItem : ModItem
+    public class DevouriaStoneBlock : ModItem
     {
         public override void SetStaticDefaults()
         {
@@ -23,7 +23,7 @@ namespace Slupergin.Content.Items.Placeable
             Item.useAnimation = 15;
             Item.useTime = 10;
             Item.consumable = true;
-            Item.createTile = ModContent.TileType<Tiles.DevouriaGrass>(); // Bloque que coloca
+            Item.createTile = ModContent.TileType<Tiles.DevouriaStone>(); // Bloque que coloca
         }
     }
 }

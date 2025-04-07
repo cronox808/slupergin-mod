@@ -1,9 +1,9 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using slupergin.Content.Projectiles;
+using Slupergin.Content.Projectiles;
 
-namespace slupergin.Content.Items
+namespace Slupergin.Content.Items
 { 
     public class Filo_Del_Abismo : ModItem
     {

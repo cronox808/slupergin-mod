@@ -1,0 +1,9 @@
+{
+    "Name": "DevouriaShader",
+    "Priority": "High",
+    "Shader": {
+      "Effect": "Slupergin/Assets/Effects/DevouriaFilter",
+      "Technique": "DevouriaShader",
+      "Color": [1.2, 1.1, 0.6]
+    }
+  }

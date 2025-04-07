@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bK/dZMKseZU=",
+  "dgSpecHash": "DB+3/3CeYI8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\slupergin.csproj",
+  "projectFilePath": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\slupergin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jose_\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "C:\\Users\\josed\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }

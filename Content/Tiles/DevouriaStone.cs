@@ -1,7 +1,6 @@
 using Terraria;
-using Terraria.ModLoader;
 using Terraria.ID;
-using Microsoft.Xna.Framework;
+using Terraria.ModLoader;
 
 namespace Slupergin.Content.Tiles
 {
@@ -9,16 +8,13 @@ namespace Slupergin.Content.Tiles
     {
         public override void SetStaticDefaults()
         {
-            Main.tileSolid[Type] = true;
-            Main.tileMergeDirt[Type] = true;
-            Main.tileBlockLight[Type] = true;
+            Main.tileSolid[Type] = true; // Bloque sólido
+            Main.tileBlockLight[Type] = true; // Bloquea la luz
+            Main.tileMergeDirt[Type] = true; // Se puede fusionar con tierra
+            Main.tileBlendAll[Type] = true; // Se mezcla con otros bloques
+            AddMapEntry(new Microsoft.Xna.Framework.Color(200, 180, 50)); // Color en el minimapa
 
-            AddMapEntry(new Color(153, 101, 21)); // Color en el minimapa
-
-            DustType = DustID.Stone;
-
-            // 🔥 Corrección: Registrar el drop correctamente
-            RegisterItemDrop(ModContent.ItemType<Items.Placeable.DevouriaStoneItem>());
+            RegisterItemDrop(ModContent.ItemType<Items.Placeable.DevouriaStoneBlock>()); // Suelta un bloque al romperse
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slupergin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a2d3b7c6c77c0b234ce9efbefae069d0f280fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab5244ee31f572cf7a7cb0a3ed3337759b6e1571")]
 [assembly: System.Reflection.AssemblyProductAttribute("slupergin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slupergin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

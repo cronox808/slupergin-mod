@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Systems\\DevouriaSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Systems\\DevouriaSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree_Top.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaTree_Top.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaTree.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Biomes\\DevouriaPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Biomes\\DevouriaPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaGrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaGrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaStone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Tiles\\DevouriaStone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevouriaTree_Top.png",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree_Top.png",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaTree_Top.png",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree_Top.png",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaTree_Top.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-24T06:35:36.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevouriaTree.png",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.png",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaTree.png",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.png",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaTree.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-24T06:35:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevouriaTree.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaTree.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTree.cs",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaTree.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:23:40.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevouriaSystem.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Systems\\DevouriaSystem.cs",
+              "RelativeDocumentMoniker": "Content\\Systems\\DevouriaSystem.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Systems\\DevouriaSystem.cs",
+              "RelativeToolTip": "Content\\Systems\\DevouriaSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:06:12.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevouriaGrass.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaGrass.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaGrass.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaGrass.cs",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaGrass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:07:10.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevouriaStone.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaStone.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaStone.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaStone.cs",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaStone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:07:06.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DevouriaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Biomes\\DevouriaPlayer.cs",
+              "RelativeDocumentMoniker": "Content\\Biomes\\DevouriaPlayer.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Biomes\\DevouriaPlayer.cs",
+              "RelativeToolTip": "Content\\Biomes\\DevouriaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:04:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevouriaTile.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTile.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\DevouriaTile.cs",
+              "ToolTip": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\Content\\Tiles\\DevouriaTile.cs",
+              "RelativeToolTip": "Content\\Tiles\\DevouriaTile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:12:42.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

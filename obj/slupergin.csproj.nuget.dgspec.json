@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\slupergin.csproj": {}
+    "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\slupergin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\slupergin.csproj": {
+    "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\slupergin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\slupergin.csproj",
+        "projectUniqueName": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\slupergin.csproj",
         "projectName": "slupergin",
-        "projectPath": "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\slupergin.csproj",
-        "packagesPath": "C:\\Users\\jose_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose_\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\slupergin\\obj\\",
+        "projectPath": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\slupergin.csproj",
+        "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josed\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Slupergin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jose_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\josed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.309/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
